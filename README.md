@@ -1,7 +1,7 @@
 ### AliAliAli
 Software engineer
 
-Experinced in:<br />
+Experienced in:<br />
 -Solving competitive contests (c++)<br />
 -Creating Mobile applications (Java, Kotlin)<br />
 -Establishing telegram bots (Python, aiogram)<br />
