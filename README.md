@@ -2,10 +2,10 @@
 Software engineer
 
 Experienced in:<br />
--Solving competitive contests (c++)<br />
+-Solving competitive contests (C++)<br />
 -Creating Mobile applications (Java, Kotlin)<br />
--Establishing telegram bots (Python, aiogram)<br />
--Backend (Python, flask)<br />
+-Establishing telegram bots (Python)<br />
+-Web Backend (Python, Java)<br />
 
 CEO of @MPD-club <br />
 Co-Founder of https://myextra.kz<br />
